@@ -1,0 +1,20 @@
+{
+  "development": {
+    "host" : "127.0.0.1",
+    "port" : "3306",
+    "database" : "db_babykylin",
+    "user" : "root",
+    "password" : "pwd#2019",
+    "maxIdle": 20,
+    "maxOpen" : 15,
+    "showSql" : true
+  },
+
+  "production": {
+    "host" : "127.0.0.1",
+    "port" : "3306",
+    "database" : "db_babykylin",
+    "user" : "root",
+    "password" : "pwd#2019"
+  }
+}

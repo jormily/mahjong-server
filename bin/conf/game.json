@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "areaId": 1,
+  "serverId": 1,
+  "nodeId": 1,
+
+  "version": 20161227,
+  "accoutPriKey": "^&*#$%()@",
+  "roomPriKey": "~!@#$(*&^%$&",
+  "appWeb": "http://fir.im/2f17"
+
+}

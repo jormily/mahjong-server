@@ -1,0 +1,42 @@
+{
+  "development":{
+    "gate":{
+      "gate-1":{"id":"gate-1", "host":"127.0.0.1", "port":5050, "clientPort": 5020},
+      "gate-2":{"id":"gate-2", "host":"127.0.0.1", "port":5051, "clientPort": 5021}
+    },
+    "login":{
+      "login-1":{"id":"login-1", "host":"127.0.0.1", "port":5060 },
+      "login-2":{"id":"login-2", "host":"127.0.0.1", "port":5061 }
+    },
+    "game":{
+      "game-1":{"id":"game-1", "host":"127.0.0.1", "port":5070},
+      "game-2":{"id":"game-2", "host":"127.0.0.1", "port":5071}
+    },
+    "db":{
+      "db-1":{"id":"db-1", "host":"127.0.0.1", "port":5080}
+    },
+    "hall":{
+      "hall-1":{"id":"hall-1", "host":"127.0.0.1", "port":5090}
+    }
+  },
+  "production":{
+    "gate":{
+      "gate-1":{"id":"gate-1", "host":"127.0.0.1", "port":5050, "clientPort": 5020},
+      "gate-2":{"id":"gate-2", "host":"127.0.0.1", "port":5051, "clientPort": 5021}
+    },
+    "login":{
+      "login-1":{"id":"login-1", "host":"127.0.0.1", "port":5060 },
+      "login-2":{"id":"login-2", "host":"127.0.0.1", "port":5061 }
+    },
+    "user":{
+      "user-1":{"id":"user-1", "host":"127.0.0.1", "port":5070},
+      "user-2":{"id":"user-2", "host":"127.0.0.1", "port":5071}
+    },
+    "db":{
+      "db-1":{"id":"db-1", "host":"127.0.0.1", "port":5080}
+    },
+    "hall":{
+      "hall-1":{"id":"hall-1", "host":"127.0.0.1", "port":5090}
+    }
+  }
+}
